@@ -1,0 +1,5 @@
+Crow,2
+Downward Facing Dog,0
+Horizon Lunge,1
+Lizard,2
+Happy Baby,1

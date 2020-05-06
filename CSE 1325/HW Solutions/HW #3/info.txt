@@ -1,0 +1,6 @@
+Natassa,Venti
+Demy,Grande
+Elena,Tall
+Yunika,Short
+Ashish,Grande
+Preju,Tall

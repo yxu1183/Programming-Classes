@@ -1,0 +1,3 @@
+Fast,5
+Slow,8
+Very Slow,10
