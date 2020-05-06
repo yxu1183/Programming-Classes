@@ -1,0 +1,6 @@
+SONG song1 = {"Ed Sheeren","Perfect","I found a love for me"};
+SONG song2 = {"The Chainsmokers","Closer","Hey, I was doing just fine before I met you"};
+SONG song3 = {"Taylor Swift","Delicate","This ain't for the best"};
+SONG song4 = {"Ellie Goulding","Love Me Like You Do","You're the light, you're the night"};
+SONG song5 = {"James Arthur","Say You Won't Let Go","I met you in the dark, you lit me up"};
+
