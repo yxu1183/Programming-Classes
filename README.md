@@ -1,4 +1,4 @@
-# CSE-1310-1320-1325
+# Programming Classes
 
 * CSE-1310 : Java (Introductory Programming)
 * CSE-1320: C (Intermediate Programming)
